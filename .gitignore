@@ -3,5 +3,7 @@
 
 .DS_Store
 .idea
+*.js
+*.map
 node_modules/
 typings/
